@@ -5,3 +5,8 @@ __pycache__/
 .pytest_cache/
 .venv/
 venv/
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
